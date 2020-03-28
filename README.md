@@ -11,7 +11,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/wladimirfrost/rocketShoes">
 
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
+  <a href="https://github.com/wladimirfrost/rocketShoes/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/wladimirfrost/rocketShoes">
   </a>
 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img alt="App" src=".github/rocketShoes.png" width="100%">
+  <img alt="Frontend" src=".github/rocketShoes.png" width="100%">
 </p>
 
 ## 🚀 Instalação e execução
