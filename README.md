@@ -30,15 +30,15 @@
 4. Inicie o server rodando `json-server server.json -p 3333`
 5. Rode `yarn start` para iniciar o frontend.
 
-## 🤔 Como contribuir
+## 🤝 Contributing
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+- Fork the repository;
+- Create a branch for your edits: `git checkout -b new-feature`;
+- Commit changes to your own branch: `git commit -m 'feat: New feature'`;
+- Push the change back to your fork: `git push origin new-feature`;
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+Submit a Pull request. We will review and merge your change.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
