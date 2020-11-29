@@ -7,15 +7,13 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wladimirgrf/rocket-shoes">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wladimirgrf/rocket-shoes">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wladimirgrf/rocket-shoes?color=%23000">
 
   <a href="https://github.com/wladimirgrf/rocket-shoes/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/wladimirgrf/rocket-shoes">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/wladimirgrf/rocket-shoes?color=%23000">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=%23000">
 </p>
 
 <p align="center">
